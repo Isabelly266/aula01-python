@@ -31,3 +31,8 @@ print("Aluno:", nome)
 print("Nota 1:", nota1)
 print("Nota 2:", nota2)
 print("Média:", (nota1 + nota2) / 2)
+nome = "Isabelly"
+idade = 18
+curso = "Administração"
+nota1 = 9.5
+nota2 = 8.5
