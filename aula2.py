@@ -36,3 +36,10 @@ idade = 18
 curso = "Administração"
 nota1 = 9.5
 nota2 = 8.5
+print("Aluno:", nome)
+print("Idade:", idade)
+print("Curso:", Administração)
+print("Nota 1:", nota1)
+print("Nota 2:", nota 2)
+print("Média:", (nota1 + nota2) / 2)
+print("Isabelly terminou sua graduacao com média ")
